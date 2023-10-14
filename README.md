@@ -3,6 +3,8 @@ RNN 모델의 Text Data 감성분석 Pipeline 제작 Project
 
 TFX를 활용하여 텍스트데이터 [감성분석](https://paperswithcode.com/task/sentiment-analysis)을 수행하는 RNN 모델의 파이프라인을 구축하고 streamlit을 활용해 웹서비스화 해볼 것이다
 
+## Data
+-[Naver Sentiment movie corpus](https://github.com/e9t/nsmc)
 
 ## To-do
 박찬성님의 TFX Pipeline todo를 참고하였다.
@@ -19,3 +21,4 @@ TFX를 활용하여 텍스트데이터 [감성분석](https://paperswithcode.com
 ## References
 - [pipeline](https://github.com/deep-diver/semantic-segmentation-ml-pipeline/tree/main)
 - [Model](https://github.com/hongseoi/aiffel-5-research/tree/master/EXPLORATION/EXPLORATION08)
+- tutorials ()
